@@ -1,0 +1,49 @@
+/* Register.css */
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+    margin: 0;
+    padding: 10px;
+    
+}
+
+form {
+    margin: 180px auto;
+    height: 300px;
+    width: 350px;
+    padding: 10px;
+    background-color: #7f5ac5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.form-label {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #06d406;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.para {
+    margin-top: 20px;
+    color: white;
+}
+.form-input-forgot
+{
+    margin-top: 20px;
+    color: white;
+}
+
+.form-input-forgot {
+    text-decoration: none; /* Remove the underline */
+    color: #e7ecf0; /* Optionally set the color */
+  }

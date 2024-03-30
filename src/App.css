@@ -1,0 +1,19 @@
+
+/* App.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('bac.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif; /* Example font-family */
+    /* height: 300px;
+    width: 1300px; */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
